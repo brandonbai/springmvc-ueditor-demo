@@ -1,1 +1,1 @@
-# springmvc-uedtor-demo
+# springmvc-ueditor-demo
