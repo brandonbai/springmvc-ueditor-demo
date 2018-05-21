@@ -6,3 +6,6 @@ Baidu ueditor兼容Spring MVC示例.
 ## 演示
 
 ![demo.gif](https://github.com/brandonbai/springmvc-ueditor-demo/blob/master/5151732-58e9252e486d799b.gif)
+
+## 配置介绍
+[https://www.jianshu.com/p/d31ba99cc358](https://www.jianshu.com/p/d31ba99cc358)
