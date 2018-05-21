@@ -5,4 +5,4 @@ Baidu ueditor兼容Spring MVC示例.
 
 ## 演示
 
-![demo.gif](https://upload-images.jianshu.io/upload_images/5151732-58e9252e486d799b.gif?imageMogr2/auto-orient/strip)
+![demo.gif](https://github.com/brandonbai/springmvc-ueditor-demo/blob/master/5151732-58e9252e486d799b.gif)
